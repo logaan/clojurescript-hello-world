@@ -1,0 +1,4 @@
+Clojurescript hello world. Gives an example of how to lay your project out with
+lein and how to get access to the Google Closure libraries. JS property access
+was also not so straight forward.
+
