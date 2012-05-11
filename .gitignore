@@ -1,0 +1,7 @@
+*.swp
+.DS_Store
+.lein-cljsbuild-compiler-0/
+.lein-deps-sum
+.lein-plugins/
+lib/*
+
